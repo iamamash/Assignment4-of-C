@@ -39,7 +39,7 @@ int main()
 int main()
 {
     int n;
-    for (n = 1; n <= 10; n++)
+    for (n = 1; n <= 20; n++)
     {
         if (n % 2 == 0)
         {
@@ -56,7 +56,7 @@ int main()
 int main()
 {
     int n;
-    for (n = 10; n >= 1; n--)
+    for (n = 20; n >= 1; n--)
     {
         if (n % 2 == 0)
         {
@@ -73,7 +73,7 @@ int main()
 int main()
 {
     int n;
-    for (n = 1; n <= 10; n++)
+    for (n = 1; n <= 20; n++)
     {
         if (n % 2 == 0)
         {
@@ -90,7 +90,7 @@ int main()
 int main()
 {
     int n;
-    for (n = 10; n >= 1; n--)
+    for (n = 20; n >= 1; n--)
     {
         if (n % 2 == 0)
         {
